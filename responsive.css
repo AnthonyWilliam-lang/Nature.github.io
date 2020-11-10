@@ -1,0 +1,16 @@
+@media all and (max-width: 1000px) {
+  .subject {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+  .copy-container h1 {
+    font-size: 32px;
+  }
+
+  .copy-container h2 {
+    font-size: 24px;
+  }
+  .copy-container span {
+    font-size: 24px;
+  }
